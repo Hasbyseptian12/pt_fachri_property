@@ -141,7 +141,7 @@ html {
 }
 
 .info-box.gold {
-    background: linear-gradient(135deg, #2d3436, #1a1a1a);
+    background: linear-gradient(135deg, #c41e3a, #8b0000);
 }
 
 .hero-image {
@@ -376,7 +376,7 @@ html {
     padding: 5rem;
     text-align: center;
     width: 100%;
-    margin-top: -11rem; /* Geser ke atas 3rem, sesuaikan nilainya */
+    margin-top: -12rem; /* Geser ke atas 3rem, sesuaikan nilainya */
 }
 
 .kantor h2 {
@@ -442,7 +442,7 @@ html {
 
 .kontak-item i {
     font-size: 1.8rem;
-    color: #f1c40f;
+    color: #cb1515;
 }
 
 .kontak-item p {
@@ -454,8 +454,8 @@ html {
 .btn-lihat {
     display: inline-block;
     padding: 1.2rem 3rem;
-    background: linear-gradient(135deg, #f39c12, #f1c40f);
-    color: #2d3436;
+    background: linear-gradient(135deg, #c41e3a, #8b0000);
+    color: #ffffff;
     text-decoration: none;
     border-radius: 12px;
     font-weight: 700;
